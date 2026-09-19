@@ -1,0 +1,4 @@
+interface:
+  display_name: "记忆相册整理器"
+  short_description: "同一场景只留一张代表作，其他版本保留在回忆仓，可随时重新挑选"
+  default_prompt: "使用 $photo-album-organizer 整理相册，同一场景只精选一张，其余放入可恢复回忆仓。"
